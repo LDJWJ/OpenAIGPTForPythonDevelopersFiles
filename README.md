@@ -1,52 +1,92 @@
-# OpenAI GPT For Python Developers
+## openAI GPT For Python Developers(Korean)
 
-This repository contains the code and other resources used in [OpenAI GPT for Python Developers](https://amzn.to/3U99smX).
 
-[![](assets/3d.png)](https://amzn.to/3U99smX)
 
-## About
+## 🚀 Book 
+책 제목 : 개발자를 위한 openAI GPT - 추후 책 표지 추가 예정
 
-The knowledge you'll acquire from this guide will be applicable to the current families of GPT models (GPT-3, GPT-3.5, GPT-4, etc.) and will likely also be relevant to GPT-5, should it ever be released.
+<figure>
+    <img src="https://github.com/LDJWJ/openAIGPT_kor/blob/main/bookcover.png" alt="kaggle" width=300 height=300>
+</figure>
 
-OpenAI provides APIs (Application Programming Interfaces) to access their AI. The goal of an API is to abstract the underlying models by creating a universal interface for all versions, allowing users to use GPT regardless of its version.
+### my web site
+ * https://ldjwj.github.io/openAIGPT_kor/
 
-This guide aims to provide a comprehensive, step-by-step tutorial on how to utilize GPT-3.5 and GPT-4 in your projects via this API. It also covers other models, such as Whisper and Text-to-Speech.
+## Install openai
+```bash
+pip install openai
+```
 
-If you're developing a chatbot, an AI assistant, or a web application that utilizes AI-generated data, this guide will assist you in achieving your objectives.
+## 실습 코드
+ * 아래 코드는 Google colab 환경을 기본으로 합니다.
 
-If you have a basic understanding of the Python programming language and are willing to learn a few additional techniques, such as using Pandas Dataframes and some NLP methods, you possess all the necessary tools to start building intelligent systems with OpenAI tools.
+## 시작하기 PART 01
 
-Rest assured, **you don't need to be a data scientist, machine learning engineer, or AI expert** to comprehend and implement the concepts, techniques, and tutorials presented in this guide. The explanations provided are straightforward and easy to understand, featuring simple Python code, examples, and hands-on exercises.
+### 01 챗GPT, GPT, GPT-3, DALL-E, Codex 
+ * GPT 모델 생성 코드 예제 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/01_GPT_Example_V2.ipynb)
 
-This guide emphasizes practical, hands-on learning and is designed to assist readers in building real-world applications. It is example-driven and provides numerous practical examples to help readers understand the concepts and apply them to real-life scenarios to solve real-world problems.
+### 02~03 개발 환경 준비 및 사용 가능한 모델 확인
+ * openAI 다양한 인공지능 모델 확인해 보기(1) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/02_prepareing_Develoment_V2.ipynb)
 
-By the end of your learning journey, you will have developed applications such as:
+### 03. GPT Chat 완성 활용
+ * Using GPT Chat Completions
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/03_UsingGPTChatComp.ipynb)
 
-- Fine-tuned, domain-specific chatbots.
-- An intelligent conversational system with memory and context.
-- A semantic modern search engine using RAG and other techniques.
-- An intelligent coffee recommendation system based on your taste.
-- A chatbot assistant to assist with Linux commands
-- A fine-tuned news category prediction system.
-- An AI-to-AI autonomous discussion system to simulate human-like conversations or solve problems
-- An AI-based mental health coach trained on a large dataset of mental health conversations
-- and more!
+### 04. ChatGPT API 기본 예제
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/04_ChatGPT_EXAMPLE_V1.ipynb)
 
-By reading this guide and following the examples, you will be able to:
+### 04. GPT 텍스트 완성 사용하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/04_GPT_Completion_V2.ipynb)
+ 
+### 05. GPT 모델로 텍스트 편집하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/05_TEXT_EDIT_WITH_GPT_V2.ipynb)
 
-- Understand the different models available, and how and when to use each one.
-- Generate human-like text for various purposes, such as answering questions, creating content, and other creative uses.
-- Control the creativity of GPT models and adopt the best practices to generate high-quality text.
-- Transform and edit the text to perform translation, formatting, and other useful tasks.
-- Optimize the performance of GPT models using various parameters and options such as max_tokens, temperature, top_p, n, stream, logprobs, stop, presence_penalty, frequency_penalty, best_of, and others.
-- Stem, lemmatize and reduce your costs when using the API.
-- Understand Context Stuffing, chaining, and practice prompt engineering.
-- Implement a chatbot with memory and context.
-- Create prediction algorithms and zero-shot techniques and evaluate their accuracy.
-- Understand, practice, and improve few-shot learning.
-- Understand fine-tuning and leverage its power to create your own fine-tuned models.
-- Understand and use fine-tuning best practices
-- Practice training and classification techniques using GPT.
-- Understand embedding and how companies such as Tesla and Notion are using it.
-- Understand and implement semantic search, RAG, and other advanced tools and concepts.
-- Integrate a Vector Database (e.g.: Weaviate) with your intelligent systems.- 
+### 06. 텍스트 조작 예제: 고급편
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/06_Text_Manipulation_Example_V1.ipynb)
+
+### 07. 임베딩
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/07_Embedding_V1.ipynb)
+
+### 08. 임베딩:고급편
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/08_Embedding_Advanced_V10.ipynb)  
+
+### 09. 미세 튜닝과 모범 사례
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/09_fine_tune_V10.ipynb)   
+
+### 10. 고급 미세 튜닝 - 약품 분류하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/10_Advanced_FineTuning_V10.ipynb) 
+
+### 11. 고급 미세 튜닝 - 챗봇 어시스턴트 만들기 
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/11_fineTuning_chatbot_V10.ipynb)
+ 
+ * 대화식 웹 앱 만들기 - [작업절차](./webApp.md)
+ 
+### 12. OpenAI Whisper를 사용한 지능형 음성 인식
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/12_openAI_Whisper_V10.ipynb)
+ 
+### 13. 문맥과 기억: AI를 더 현실적으로 만들기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/13_Context_Memory_V10.ipynb) 
+ 
+### 14. 인공지능 기반 Alexa 만들기 
+ * 해당 작업은 로컬 컴퓨터에서 실행합니다.
+ * 사전 설치하기 [Doc](./14_install.md)
+
+### 15. OpenAI CLIP으로 이미지 분류하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/15_OpenAI_CLIP_V10.ipynb)
+ 
+### 16-17 DALL-E을 활용한 이미지 생성하기, DALL-E을 활용한 이미지 편집하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/16_17_DALL_E_V10.ipynb) 
+ 
+### 18. 다른 이미지에서 영감 얻기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/18_Image_Make_Variation_V10.ipynb) 
+
+## 📚 Learn More
+ - [01] ----
+ - [OpenAI 개발자 플랫폼](https://platform.openai.com/)
+ - [OpenAI Playground](https://platform.openai.com/playground)
+
+### 퓨샷 학습
+  - PyTorch - 토치메타(Torchmeta) - https://tristandeleu.github.io/pytorch-meta/ (PyTorch에서 few-shot learning과 메타-러닝을 위한 확장 및 데이터로더들을 모아둔 컬렉션)
+  - 퓨 샷(few-shot) : https://github.com/oscarknagg/few-shot (깨끗하고 명확하며 검증된 코드로 few-shot learning 연구를 재현하기 위한 저장소)
+  - 메타 전이 학습 : https://github.com/yaoyao-liu/meta-transfer-learning
+

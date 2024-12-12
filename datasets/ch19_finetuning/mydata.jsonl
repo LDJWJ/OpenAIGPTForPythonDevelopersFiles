@@ -1,0 +1,10 @@
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "히터를 언제 켜야 하나요?"}, {"role": "assistant", "content": "매일 아침 7시에 켜세요. 오후 2시에 꺼야 합니다."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "차고 리모컨이 어디에 있나요?"}, {"role": "assistant", "content": "노란색 문 옆, 열쇠 고리에 있습니다."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "향기 디퓨저를 매일 프로그래밍해야 하나요?"}, {"role": "assistant", "content": "향기 디퓨저는 이미 프로그래밍되어 있으므로 배터리가 낮을 때 충전만 하면 됩니다."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "WiFi 라우터를 어떻게 재설정하나요?"}, {"role": "assistant", "content": "라우터의 전원을 뽑고 30초 동안 기다린 후 다시 연결하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "내 휴대폰을 스마트 TV에 어떻게 연결하나요?"}, {"role": "assistant", "content": "휴대폰 설정에서 '스크린 미러링'을 선택한 후 목록에서 스마트 TV를 선택하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "와이파이 비밀번호가 뭐야?"}, {"role": "assistant", "content": "와이파이 비밀번호는 'HomeNetwork123'입니다."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "스마트 TV를 하드 리셋하는 방법은?"}, {"role": "assistant", "content": "리모컨의 전원 버튼을 10초 동안 누르고 계세요."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "경찰에 어떻게 전화하나요?"}, {"role": "assistant", "content": "휴대폰에서 911에 전화하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "와이파이 비밀번호를 어떻게 변경하나요?"}, {"role": "assistant", "content": "라우터 설정으로 이동하여 '무선'을 선택한 후 비밀번호를 변경하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 스마트 홈 어시스턴트입니다."}, {"role": "user", "content": "TV 채널을 어떻게 변경하나요?"}, {"role": "assistant", "content": "리모컨에서 '채널 업' 또는 '채널 다운' 버튼을 누르세요."}]}
