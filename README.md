@@ -25,18 +25,21 @@ pip install openai
 ### 01 챗GPT, GPT, GPT-3, DALL-E, Codex 
  * GPT 모델 생성 코드 예제 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/01_GPT_Example_V2.ipynb)
 
-### 02~03 개발 환경 준비 및 사용 가능한 모델 확인
- * openAI 다양한 인공지능 모델 확인해 보기(1) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/02_prepareing_Develoment_V2.ipynb)
+### 2장 OpenAI와 ChatGPT 기본 이해
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch02_OpenAI_ChatGPT_V10_2412.ipynb)
 
-### 03. GPT Chat 완성 활용
+### 3장 개발을 위한 사전 준비
  * Using GPT Chat Completions
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/03_UsingGPTChatComp.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch03_UsingGPTChatComp_V10_2412.ipynb)
 
-### 04. ChatGPT API 기본 예제
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/04_ChatGPT_EXAMPLE_V1.ipynb)
+### 4장 OpenAI API 활용 첫걸음
+### 5장 OpenAI API 모델 탐색하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch04_ch5_OpenAIStart_V10_2412.ipynb)
 
-### 04. GPT 텍스트 완성 사용하기
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/04_GPT_Completion_V2.ipynb)
+## PART 02 OpenAI GPT 대화 생성 실전 가이드 – 실전 모델 활용법
+### 6장 대화 생성의 고급 기술 – temperature, 샘플링, 반복성 제어
+### 7장 GPT 모델의 성능을 극대화하는 프롬프트 엔지니어링 기법
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch06_ch07_chatUpgrade_V10_2412.ipynb)
  
 ### 05. GPT 모델로 텍스트 편집하기
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/05_TEXT_EDIT_WITH_GPT_V2.ipynb)
