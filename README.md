@@ -10,7 +10,7 @@
 </figure>
 
 ### my web site
- * https://ldjwj.github.io/openAIGPT_kor/
+ * 아직 확정 안됨.
 
 ## Install openai
 ```bash
