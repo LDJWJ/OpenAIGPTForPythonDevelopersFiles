@@ -34,8 +34,6 @@ pip install openai
     !pip install httpx==0.27.2
     ```
 
-
-
 ## 실습 코드
  * 아래 코드는 Google colab 환경을 기본으로 합니다.
 
@@ -59,7 +57,8 @@ pip install openai
 ### 6장 대화 생성의 고급 기술 – temperature, 샘플링, 반복성 제어
 ### 7장 GPT 모델의 성능을 극대화하는 프롬프트 엔지니어링 기법
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch06_ch07_chatUpgrade_V10_2412.ipynb)
- 
+
+## PART 03 음성 및 이미지 인식: Whisper와 CLIP의 실전 활용
 ### 05. GPT 모델로 텍스트 편집하기
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/05_TEXT_EDIT_WITH_GPT_V2.ipynb)
 
