@@ -17,6 +17,25 @@
 pip install openai
 ```
 
+### chatgpt.env 환경파일 준비
+ * 일반적으로 환경 변수는 .env 파일에 저장되지만, 구글 코랩 사용자의 편의를 위해 이 책에서는 chatgpt.env를 사용합니다.
+ * 실제 개발 환경에서는 보통 .env를 사용하니, 이 점을 기억해 두세요.
+
+
+ ### 사전 준비
+ * 구글 코랩 환경은 일정 시간이후에 초기화가 되기 때문에 두가지 작업을 매번 수행해야 함.
+   * chatgpt.env 파일 생성이 필요.
+     * 준비된 chatgpt.env를 내용을 변경하여 업로드 하거나 또는 API_KEY와 ORG_ID를 확인하여 생성한다.
+   * pip install openai 설치
+    * 라이브러리 불일치로 인한 에러 발생시, 추가 라이브러리 설치 필요.
+    * 에러 : TypeError: Client.__init__() got an unexpected keyword argument 'proxies'
+    * 해결 방법 : 안정된 버전 설치
+    ```
+    !pip install httpx==0.27.2
+    ```
+
+
+
 ## 실습 코드
  * 아래 코드는 Google colab 환경을 기본으로 합니다.
 
