@@ -59,47 +59,37 @@ pip install openai
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch06_ch07_chatUpgrade_V10_2412.ipynb)
 
 ## PART 03 음성 및 이미지 인식: Whisper와 CLIP의 실전 활용
-### 05. GPT 모델로 텍스트 편집하기
+### 8장 Whisper 음성 인식의 기초: 설치부터 다국어 번역까지
+### 9장 음성 인식의 정확도 향상: Whisper 텍스트 변환 최적화 기법
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/05_TEXT_EDIT_WITH_GPT_V2.ipynb)
 
-### 06. 텍스트 조작 예제: 고급편
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/06_Text_Manipulation_Example_V1.ipynb)
-
-### 07. 임베딩
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/07_Embedding_V1.ipynb)
-
-### 08. 임베딩:고급편
+### 10장 OpenAI TTS(Text-to-Speech) 모델을 활용한 음성 변환
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/08_Embedding_Advanced_V10.ipynb)  
 
-### 09. 미세 튜닝과 모범 사례
+### 11장 OpenAI CLIP을 사용한 이미지 분류
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/09_fine_tune_V10.ipynb)   
 
-### 10. 고급 미세 튜닝 - 약품 분류하기
+## PART 04 생성 AI를 활용한 이미지 제작과 편집 기술
+### 12장 DALL·E를 활용한 이미지 생성하기
+### 13장 DALL·E을 활용한 이미지 편집하기
+### 14장 다른 이미지에서 영감 얻기
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/10_Advanced_FineTuning_V10.ipynb) 
 
-### 11. 고급 미세 튜닝 - 챗봇 어시스턴트 만들기 
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/11_fineTuning_chatbot_V10.ipynb)
- 
- * 대화식 웹 앱 만들기 - [작업절차](./webApp.md)
- 
-### 12. OpenAI Whisper를 사용한 지능형 음성 인식
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/12_openAI_Whisper_V10.ipynb)
- 
-### 13. 문맥과 기억: AI를 더 현실적으로 만들기
+## PART 05 임베딩: 복잡한 데이터를 쉽게 이해하는 방법
+### 15장 임베딩의 기본 이해 
+### 16장 텍스트 임베딩 이해하기
+### 17장 고급 임베딩 예제
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/13_Context_Memory_V10.ipynb) 
+
+## PART 06 파인 튜닝과 모델의 실전 활용
+### 18장 Few-Shot Learning 이해하기
+### 19장 파인 튜닝의 이해 및 구현
+### 20장 파인 튜닝 고급 예제 – 정신 건강 코치
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/13_Context_Memory_V10.ipynb) 
+
+### 21장 GPT의 기억력 향상: 맥락 유지를 위한 다양한 접근 방식
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/13_Context_Memory_V10.ipynb) 
  
-### 14. 인공지능 기반 Alexa 만들기 
- * 해당 작업은 로컬 컴퓨터에서 실행합니다.
- * 사전 설치하기 [Doc](./14_install.md)
-
-### 15. OpenAI CLIP으로 이미지 분류하기
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/15_OpenAI_CLIP_V10.ipynb)
- 
-### 16-17 DALL-E을 활용한 이미지 생성하기, DALL-E을 활용한 이미지 편집하기
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/16_17_DALL_E_V10.ipynb) 
- 
-### 18. 다른 이미지에서 영감 얻기
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/18_Image_Make_Variation_V10.ipynb) 
 
 ## 📚 Learn More
  - [01] ----
