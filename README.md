@@ -39,9 +39,6 @@ pip install openai
 
 ## 시작하기 PART 01
 
-### 01 챗GPT, GPT, GPT-3, DALL-E, Codex 
- * GPT 모델 생성 코드 예제 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/01_GPT_Example_V2.ipynb)
-
 ### 2장 OpenAI와 ChatGPT 기본 이해
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch02_OpenAI_ChatGPT_V10_2412.ipynb)
 
