@@ -40,52 +40,52 @@ pip install openai
 ## 시작하기 PART 01
 
 ### 2장 OpenAI와 ChatGPT 기본 이해
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch02_OpenAI_ChatGPT_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch02_OpenAI_ChatGPT_V10_2412.ipynb)
 
 ### 3장 개발을 위한 사전 준비
  * Using GPT Chat Completions
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch03_UsingGPTChatComp_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch03_UsingGPTChatComp_V10_2412.ipynb)
 
 ### 4장 OpenAI API 활용 첫걸음
 ### 5장 OpenAI API 모델 탐색하기
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch04_ch5_OpenAIStart_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch04_ch5_OpenAIStart_V10_2412.ipynb)
 
 ## PART 02 OpenAI GPT 대화 생성 실전 가이드 – 실전 모델 활용법
 ### 6장 대화 생성의 고급 기술 – temperature, 샘플링, 반복성 제어
 ### 7장 GPT 모델의 성능을 극대화하는 프롬프트 엔지니어링 기법
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch06_ch07_chatUpgrade_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch06_ch07_chatUpgrade_V10_2412.ipynb)
 
 ## PART 03 음성 및 이미지 인식: Whisper와 CLIP의 실전 활용
 ### 8장 Whisper 음성 인식의 기초: 설치부터 다국어 번역까지
 ### 9장 음성 인식의 정확도 향상: Whisper 텍스트 변환 최적화 기법
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch08_ch09_whisper_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch08_ch09_whisper_V10_2412.ipynb)
 
 ### 10장 OpenAI TTS(Text-to-Speech) 모델을 활용한 음성 변환
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch10_TTS_V10_2412.ipynb)  
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch10_TTS_V10_2412.ipynb)  
 
 ### 11장 OpenAI CLIP을 사용한 이미지 분류
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch11_CLIP.ipynb)   
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch11_CLIP.ipynb)   
 
 ## PART 04 생성 AI를 활용한 이미지 제작과 편집 기술
 ### 12장 DALL·E를 활용한 이미지 생성하기
 ### 13장 DALL·E을 활용한 이미지 편집하기
 ### 14장 다른 이미지에서 영감 얻기
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch12_ch14_DALLE3.ipynb) 
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch12_ch14_DALLE3.ipynb) 
 
 ## PART 05 임베딩: 복잡한 데이터를 쉽게 이해하는 방법
 ### 15장 임베딩의 기본 이해 
 ### 16장 텍스트 임베딩 이해하기
 ### 17장 고급 임베딩 예제
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch15_17_Embedding_V10_2412.ipynb) 
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch15_17_Embedding_V10_2412.ipynb) 
 
 ## PART 06 파인 튜닝과 모델의 실전 활용
 ### 18장 Few-Shot Learning 이해하기
 ### 19장 파인 튜닝의 이해 및 구현
 ### 20장 파인 튜닝 고급 예제 – 정신 건강 코치
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch19_ch20_FineTuning_V10_2412.ipynb) 
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch19_ch20_FineTuning_V10_2412.ipynb) 
 
 ### 21장 GPT의 기억력 향상: 맥락 유지를 위한 다양한 접근 방식
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/openAIGPT_kor/blob/main/ch21_ContextMemory_V10_2412.ipynb) 
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch21_ContextMemory_V10_2412.ipynb) 
  
 
 ## 📚 Learn More
