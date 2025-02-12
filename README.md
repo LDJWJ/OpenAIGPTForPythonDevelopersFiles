@@ -53,7 +53,7 @@ pip install openai
 ## PART 02 OpenAI GPT 대화 생성 실전 가이드 – 실전 모델 활용법
 ### 6장 대화 생성의 고급 기술 – temperature, 샘플링, 반복성 제어
 ### 7장 GPT 모델의 성능을 극대화하는 프롬프트 엔지니어링 기법
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch06_ch07_chatUpgrade_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch06_ch07_chatUpgrade_V10.ipynb)
 
 ## PART 03 음성 및 이미지 인식: Whisper와 CLIP의 실전 활용
 ### 8장 Whisper 음성 인식의 기초: 설치부터 다국어 번역까지
