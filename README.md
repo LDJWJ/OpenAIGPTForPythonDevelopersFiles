@@ -64,7 +64,7 @@ pip install openai
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch10_TTS_V10_2412.ipynb)  
 
 ### 11장 OpenAI CLIP을 사용한 이미지 분류
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch11_CLIP.ipynb)   
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch11_CLIP_V10.ipynb)   
 
 ## PART 04 생성 AI를 활용한 이미지 제작과 편집 기술
 ### 12장 DALL·E를 활용한 이미지 생성하기
