@@ -58,7 +58,7 @@ pip install openai
 ## PART 03 음성 및 이미지 인식: Whisper와 CLIP의 실전 활용
 ### 8장 Whisper 음성 인식의 기초: 설치부터 다국어 번역까지
 ### 9장 음성 인식의 정확도 향상: Whisper 텍스트 변환 최적화 기법
- * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch08_ch09_whisper_V10_2412.ipynb)
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch08_ch09_whisper_V10_2502.ipynb)
 
 ### 10장 OpenAI TTS(Text-to-Speech) 모델을 활용한 음성 변환
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch10_TTS_V10_2412.ipynb)  
