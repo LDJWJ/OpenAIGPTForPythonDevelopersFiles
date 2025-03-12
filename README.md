@@ -9,8 +9,19 @@
     <img src="https://github.com/LDJWJ/openAIGPT_kor/blob/main/bookcover.png" alt="kaggle" width=300 height=300>
 </figure>
 
-### my web site
- * 아직 확정 안됨.
+## 🎥 YouTube 가이드 영상
+
+| 챕터 | 내용 | YouTube 링크 |
+|------|------|-------------|
+| 2장 | 오픈AI와 챗GPT 이해하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 3장 | 개발 사전 준비 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 5장 | 오픈AI API 모델 탐색하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 7장 | 프롬프트 엔지니어링 기법 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 10장 | 오픈AI TTS 활용 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 14장 | DALL·E를 활용한 이미지 변형 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 20장 | 파인 튜닝 고급 예제 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+
+
 
 ## Install openai
 ```bash
