@@ -13,6 +13,8 @@
 
 | 챕터 | 내용 | YouTube 링크 |
 |------|------|-------------|
+| 준비 | 구글 코랩 시작하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 준비 | chatgpt.env 파일 생성 및 라이브러리 설치 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
 | 2장 | 오픈AI와 챗GPT 이해하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
 | 3장 | 개발 사전 준비 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
 | 5장 | 오픈AI API 모델 탐색하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
