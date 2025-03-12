@@ -3,7 +3,7 @@
 
 
 ## 🚀 Book 
-책 제목 : 개발자를 위한 openAI GPT - 추후 책 표지 추가 예정
+책 제목 : 제대로 시작하는 챗GPT와 AI활용
 
 <figure>
     <img src="https://github.com/LDJWJ/openAIGPT_kor/blob/main/bookcover.png" alt="kaggle" width=300 height=300>
