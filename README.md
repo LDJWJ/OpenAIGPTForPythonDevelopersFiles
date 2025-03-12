@@ -37,56 +37,66 @@ pip install openai
 ## 실습 코드
  * 아래 코드는 Google colab 환경을 기본으로 합니다.
 
-## 시작하기 PART 01
+##  PART 1 오픈AI와 챗GPT 제대로 이해하기
 
-### 2장 OpenAI와 ChatGPT 기본 이해
+### 2장 오픈AI와 챗GPT
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch02_OpenAI_ChatGPT_V10_2412.ipynb)
 
-### 3장 개발을 위한 사전 준비
- * Using GPT Chat Completions
+### 3장 개발 사전 준비
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch03_UsingGPTChatComp_V10_2412.ipynb)
 
-### 4장 OpenAI API 활용 첫걸음
-### 5장 OpenAI API 모델 탐색하기
+### 4장 오픈AI API 활용 첫걸음
+### 5장 오픈AI API 모델 탐색하기
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch04_ch5_OpenAIStart_V10_2412.ipynb)
 
-## PART 02 OpenAI GPT 대화 생성 실전 가이드 – 실전 모델 활용법
-### 6장 대화 생성의 고급 기술 – temperature, 샘플링, 반복성 제어
+
+## PART 02 오픈AI GPT 대화 생성 실전 가이드
+### 6장 대화 생성의 고급 기술
 ### 7장 GPT 모델의 성능을 극대화하는 프롬프트 엔지니어링 기법
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch06_ch07_chatUpgrade_V10.ipynb)
 
-## PART 03 음성 및 이미지 인식: Whisper와 CLIP의 실전 활용
-### 8장 Whisper 음성 인식의 기초: 설치부터 다국어 번역까지
-### 9장 음성 인식의 정확도 향상: Whisper 텍스트 변환 최적화 기법
+## PART 3 음성 및 이미지 인식: 위스퍼와 CLIP의 실전 활용
+### 8장 위스퍼 음성 인식 기초
+### 9장 위스퍼 텍스트 변환 최적화 기법
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch08_ch09_whisper_V10_2502.ipynb)
 
-### 10장 OpenAI TTS(Text-to-Speech) 모델을 활용한 음성 변환
+### 10장 오픈AI TTS를 활용한 음성 변환
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch10_TTS_V10_2412.ipynb)  
 
-### 11장 OpenAI CLIP을 사용한 이미지 분류
+### 11장 오픈AI CLIP을 사용한 이미지 분류
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch11_CLIP_V10.ipynb)   
 
-## PART 04 생성 AI를 활용한 이미지 제작과 편집 기술
-### 12장 DALL·E를 활용한 이미지 생성하기
-### 13장 DALL·E을 활용한 이미지 편집하기
+## PART 4 생성형 AI를 활용한 이미지 제작과 편집 기술
+### 12장 DALL·E로 이미지 생성하기
+### 13장 DALL·E로 이미지 편집하기
 ### 14장 다른 이미지에서 영감 얻기
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch12_ch14_DALLE3.ipynb) 
 
-## PART 05 임베딩: 복잡한 데이터를 쉽게 이해하는 방법
-### 15장 임베딩의 기본 이해 
-### 16장 텍스트 임베딩 이해하기
+## PART 5 임베딩: 복잡한 데이터를 쉽게 이해하는 방법
+### 15장 임베딩 소개
+### 16장 텍스트 임베딩 활용 방법
 ### 17장 고급 임베딩 예제
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch15_17_Embedding_V10_2412.ipynb) 
 
-## PART 06 파인 튜닝과 모델의 실전 활용
-### 18장 Few-Shot Learning 이해하기
+## PART 6 파인 튜닝과 모델의 실전 활용
+### 18장 퓨샷 학습 이해하기
 ### 19장 파인 튜닝의 이해 및 구현
-### 20장 파인 튜닝 고급 예제 – 정신 건강 코치
+### 20장 파인 튜닝 고급 예제: 정신 건강 코치
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch19_ch20_FineTuning_V10_2412.ipynb) 
 
-### 21장 GPT의 기억력 향상: 맥락 유지를 위한 다양한 접근 방식
+### 21장 기억력 및 문맥 문제와 해결책
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch21_ContextMemory_V10_2412.ipynb) 
  
+
+## PART 7 부록
+### 부록 A 챗GPT 및 클로드 실습
+### 부록 B 오픈AI 플레이그라운드 실습
+### 부록 C 건강 상담 챗봇 구현하기
+### 부록 D 작가 스타일 이미지 생성 앱
+### 부록 E RAG로 노트북 추천받기
+### 부록 F 오토젠을 활용한 AI 에이전트 이해하기
+
+
 
 ## 📚 Learn More
  - [01] ----
