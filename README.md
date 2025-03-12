@@ -1,4 +1,4 @@
-## openAI GPT For Python Developers(Korean)
+## 제대로 시작하는 챗GPT와 AI활용
 
 
 
