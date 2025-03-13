@@ -13,18 +13,18 @@
 
 | 챕터 | 내용 | YouTube 링크 |
 |------|------|-------------|
-| 준비 | 구글 코랩 시작하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 준비 | chatgpt.env 파일 생성 및 라이브러리 설치 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 부록 A | 챗GPT 및 클로드 실습 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 부록 B | 오픈AI 플레이그라운드 실습 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 부록 C | 건강 상담 챗봇 구현하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 부록 D | 작가 스타일 이미지 생성 앱 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 부록 E | RAG로 노트북 추천받기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 부록 F | 오토젠을 활용한 AI 에이전트 이해하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 2장 | 오픈AI와 챗GPT 이해하기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 3장 | 개발 사전 준비 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 14장 | DALL·E를 활용한 이미지 변형 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
-| 20장 | 파인 튜닝 고급 예제 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 준비 | 구글 코랩 시작하기(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 준비 | chatgpt.env 파일 생성 및 라이브러리 설치(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 부록 A | 챗GPT 및 클로드 실습(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 부록 B | 오픈AI 플레이그라운드 실습(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 부록 C | 건강 상담 챗봇 구현하기(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 부록 D | 작가 스타일 이미지 생성 앱(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 부록 E | RAG로 노트북 추천받기(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 부록 F | 오토젠을 활용한 AI 에이전트 이해하기(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 2장 | 오픈AI와 챗GPT 이해하기(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 3장 | 개발 사전 준비(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 14장 | DALL·E를 활용한 이미지 변형(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| 20장 | 파인 튜닝 고급 예제(준비중) | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
 
 ## Install openai
 ```bash
