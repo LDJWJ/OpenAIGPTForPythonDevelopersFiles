@@ -6,7 +6,7 @@
 책 제목 : 제대로 시작하는 챗GPT와 AI활용
 
 <figure>
-    <img src="https://github.com/LDJWJ/openAIGPT_kor/blob/main/bookcover.png" alt="kaggle" width=300 height=300>
+    <img src="https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles/image/bookcover_01.png" alt="ChatGPT" width=300 height=300>
 </figure>
 
 ## 🎥 YouTube 가이드 영상
