@@ -10,11 +10,17 @@
 </figure>
 
 ## 🎥 YouTube 가이드 영상
-
+### 게시 완료된 영상
 | 챕터 | 내용 | 영상 내용 |YouTube 링크 |
 |------|------|-------------|------------- |
 | 준비 | 구글 코랩 시작하기(준비중) | 구글 코랩 시작 <br> 구글 코랩 GPU 사용 <br> 구글 코랩 파일 생성 및 올리기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Tgxtc1UcUyI) |
-| 준비 | chatgpt.env 파일 생성 및 라이브러리 설치(준비중) | -- | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+
+
+
+## 🎥 YouTube 가이드 영상
+### 추후 제작 예정 영상
+| 챕터 | 내용 | 영상 내용 |YouTube 링크 |
+|------|------|-------------|------------- |
 | 부록 A | 챗GPT 및 클로드 실습(준비중) | -- | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
 | 부록 B | 오픈AI 플레이그라운드 실습(준비중)  | -- | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
 | 부록 C | 건강 상담 챗봇 구현하기(준비중)  | -- | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
