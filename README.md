@@ -13,7 +13,7 @@
 ### 게시 완료된 영상
 | 챕터 | 내용 | 영상 내용 |YouTube 링크 |
 |------|------|-------------|------------- |
-| 준비 | 구글 코랩 시작하기(준비중) | 구글 코랩 시작 <br> 구글 코랩 GPU 사용 <br> 구글 코랩 파일 생성 및 올리기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Tgxtc1UcUyI) |
+| 준비 | 구글 코랩 시작하기 | 구글 코랩 시작 <br> 구글 코랩 GPU 사용 <br> 구글 코랩 파일 생성 및 올리기 | [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Tgxtc1UcUyI) |
 
 
 ## Install openai
