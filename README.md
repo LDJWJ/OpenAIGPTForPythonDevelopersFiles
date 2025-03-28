@@ -99,6 +99,7 @@ pip install openai
 ### 부록 D 작가 스타일 이미지 생성 앱
 ### 부록 E RAG로 노트북 추천받기
 ### 부록 F 오토젠을 활용한 AI 에이전트 이해하기
+ * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/appendix_F_AutoGen_V10_2503.ipynb) 
 
 ## 🎥 YouTube 가이드 영상
 ### 추후 제작 예정 영상
