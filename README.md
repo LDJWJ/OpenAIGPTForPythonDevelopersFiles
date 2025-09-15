@@ -80,6 +80,7 @@ pip install openai
 ### 13장 DALL·E로 이미지 편집하기
 ### 14장 다른 이미지에서 영감 얻기
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/ch12_ch14_DALLE3.ipynb) 
+ * 추가 실습 내용(API를 활용한 이미지 분석) 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/appendix_image_Analysis_01.ipynb) 
 
 ## PART 5 임베딩: 복잡한 데이터를 쉽게 이해하는 방법
 ### 15장 임베딩 소개
