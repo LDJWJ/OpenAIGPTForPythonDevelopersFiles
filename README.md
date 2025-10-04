@@ -10,7 +10,10 @@
 </figure>
 
 ## Notion 내용 정리
-기본 개념 : [Link](https://www.notion.so/GPT-AI-with-2827d480b59380b3907fc82b634eeb06?source=copy_link)
+챗GPT와 AI활용 with 파이썬 - 기본 개념 정리 : [Link](https://www.notion.so/GPT-AI-with-2827d480b59380b3907fc82b634eeb06?source=copy_link)
+ - 01 Whisper - AI 음성인식 기술
+ - 02 퓨샷 학습(few shot)
+ - 03 TTS(Text-to-Speech)
 
 ## 🎥 YouTube 가이드 영상
 ### 관련 영상
