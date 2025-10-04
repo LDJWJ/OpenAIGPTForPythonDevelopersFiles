@@ -9,6 +9,9 @@
     <img src="https://ldjwj.github.io/OpenAIGPTForPythonDevelopersFiles/image/bookcover_01.png" alt="ChatGPT" width=300 height=300>
 </figure>
 
+## Notion 내용 정리
+기본 개념 : [Link](https://www.notion.so/GPT-AI-with-2827d480b59380b3907fc82b634eeb06?source=copy_link)
+
 ## 🎥 YouTube 가이드 영상
 ### 관련 영상
 | 챕터 | 내용 | 영상 내용 |YouTube 링크 |
